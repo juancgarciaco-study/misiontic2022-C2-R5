@@ -1,0 +1,6 @@
+{
+	"db_ip"      : "172.19.0.2",
+	"dp_port"    : "3306", 
+	"db_user"    : "root",
+	"db_pssword" : "my-secret-pw" 
+}
